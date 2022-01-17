@@ -1,0 +1,11 @@
+*.swp
+__pycache__
+node_modules/
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+.paket/
+paket-files/
+
